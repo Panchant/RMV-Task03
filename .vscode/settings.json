@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/panchant/Developing/VSCode/Workspace/第二次任务喵/task",
+    "files.associations": {
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
